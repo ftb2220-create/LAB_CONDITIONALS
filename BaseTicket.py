@@ -24,3 +24,5 @@ else:
         price *= 0.8
 
     print(f"Ticket price: ${price:.2f}")
+    
+print("Thank you for using our ticketing system.")
